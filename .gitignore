@@ -1,0 +1,16 @@
+# Material de la catedra (no forma parte de la entrega)
+*.pdf
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Comprimidos de entrega
+AI_*.zip
+*.zip
