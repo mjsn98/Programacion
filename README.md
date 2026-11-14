@@ -10,10 +10,8 @@ archivo de texto y en un archivo CSV creado con Pandas.
 
 ## Integrantes
 
-- Apellido 1, Nombre 1
-- Apellido 2, Nombre 2
-
-> Completar con los datos de los dos integrantes del grupo.
+- Santillan, Mara
+- Suarez Bonahora, Flavia
 
 ## Video explicativo
 
@@ -47,7 +45,7 @@ python -m pip install pandas
 | `.gitignore` | Archivos que no se versionan (PDF de la cátedra, temporales, ZIP). |
 
 Para la entrega en el Aula Virtual, el archivo comprimido debe llamarse
-`AI_Apellido1_Apellido2.zip` y contener **únicamente** `generador.py` y
+`AI_Santillan_SuarezBonahora.zip` y contener **únicamente** `generador.py` y
 `datos_turismo.txt`.
 
 ## Formato del archivo de entrada
