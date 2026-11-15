@@ -1,5 +1,6 @@
-# Video explicativo: https://youtu.be/PENDIENTE (reemplazar por el enlace real de YouTube o Google Drive)
-# -*- coding: utf-8 -*-
+
+# Video explicativo: https://youtu.be/VmErNzsSjL0
+
 """
 Actividad Integradora Final 2026 - "Generador de planes turísticos"
 Elementos de Programación - UNSL
